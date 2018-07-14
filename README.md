@@ -16,6 +16,7 @@ Copy all your file and past them into '/home/<username>/Downloads/TrID_Mass_Exec
 
 <code>$cd /home/<username>/Downloads/TrID_Mass_Execution</code><br>
 <code>$chmod u+x ./script.sh</code><br>
+<code>$chmod u+x ./trid</code><br>
 <code>$export PATH=$PATH:/home/<username>/Downloads/TrID_Mass_Execution/script.sh</code><br>
 <code>$./script.sh </code><br>
 All file with unknown/incorrect extension type will be fixed in feed folder<br>
