@@ -1,6 +1,8 @@
 # TrID_Mass_Execution
 Help in identifying and correcting extension of unknown/known file format (on massive scale). You can add/correct extension of hundreds of files by placing them in feed folder, This tool is based on TrID tool. I Designed it to add extension to VirusShare_ Files
-
+# Important
+  - ./feed has some test data already provided by me | THIS DATA IS ONLY FOR TESTING
+  - <emp>Don't attempt to extract/open .zip/.jar files after executing script.sh</emp> 
 # Requirements
   - Linux x64 Distribution
   - python 2.7
